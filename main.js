@@ -7,9 +7,9 @@ let h2Text = document.querySelector(".h222");
 
 let randomText = [
   "You have to love your husband",
-  "Your husband is the best",
-  "You will smell your husband farts",
-  "YOu need to love him forever"
+  "Your husband is the best - just accept it",
+  "You will smell your husband's farts",
+  "You need to love him forever"
 ];
 
 clickCookie.addEventListener('click', function() {
