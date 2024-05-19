@@ -9,7 +9,7 @@ let h2Text = document.querySelector(".h222");
 let randomText = [
   "You have to love your husband",
   "Your husband is the best - just accept it",
-  "You will smell your husband's farts",
+  "You will love everything he does",
   "You need to love him forever"
 ];
 
